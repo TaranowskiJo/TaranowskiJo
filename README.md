@@ -6,7 +6,7 @@
   * Doom
   * Stray :black_cat:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass, react, express, unity, dotnet)](https://skillicons.dev)
 
 
 I'm a full stack software engineer :globe_with_meridians: in WA state! 
