@@ -6,7 +6,8 @@
   * Doom
   * Stray :black_cat:
 
-[![My Skills](https://skillicons.dev/icons?i=aws, react, bootstrap, codepen, discord, dotnet, figma, flask, express, git, github, gradle, jquery, mysql, nodejs, ps, powershell, py, sass, stackoverflow, twitter, unity, vscode, js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 I'm a full stack software engineer :globe_with_meridians: in WA state! 
 My background is primarily in web dev but I like to venture into game development with Unity. 
