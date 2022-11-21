@@ -6,7 +6,11 @@
   * Doom
   * Stray :black_cat:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass, react, express, unity)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 I'm a full stack software engineer :globe_with_meridians: in WA state! 
