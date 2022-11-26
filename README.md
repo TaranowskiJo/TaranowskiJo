@@ -21,6 +21,6 @@ Winston the Pigeon :dove:
 onlyCats :cat2:
 CraveIt! 	:watermelon:
 
-Ask me about current projects!
+Ask me about current projects! 
  
 📫 Send me a message! 	:cancer:
