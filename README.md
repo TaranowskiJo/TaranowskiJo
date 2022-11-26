@@ -16,6 +16,7 @@
 I'm a full stack software engineer :globe_with_meridians: in WA state! 
 My background is primarily in web dev but I like to venture into game development with Unity. 
 I make projects with passion! Check a few out...
+<br>
 Winston the Pigeon :dove:
 onlyCats :cat2:
 CraveIt! 	:watermelon:
